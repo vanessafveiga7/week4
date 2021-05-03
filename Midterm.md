@@ -45,14 +45,14 @@ Problem 1.  Karel the Robot
     }
     
 Problem 2. Java expressions, statements, and methods.
-2a)
-1.25
-false
-"B84"
+                2a)
+                1.25
+                false
+                "B84"
 
-2b)
-78
-73
+                    2b) 
+                    78
+                    73
 
 Problem 3. Console Programs
 
